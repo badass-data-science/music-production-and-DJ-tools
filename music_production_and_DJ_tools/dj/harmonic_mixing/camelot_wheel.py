@@ -3,7 +3,7 @@
 #
 import pandas as pd
 import numpy as np
-from theory.western.enharmonics import df_enharmonic
+from music_production_and_DJ_tools.theory.western.enharmonics import df_enharmonic
 
 #
 # Class to define a DJ's "Camelot wheel" to facilitate
